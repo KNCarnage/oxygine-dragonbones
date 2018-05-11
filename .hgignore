@@ -1,0 +1,15 @@
+syntax: glob
+examples/Hello/proj.win32/Debug/
+src/q/
+proj.win32/Debug/
+examples/Hello/proj.win32/Release/
+*.sdf
+*.suo
+*.orig
+examples/Hello/proj.win32/Debug_vs2013/
+examples/Hello/proj.win32/Release_vs2013/
+*.opensdf
+dragonBones/
+examples/Hello/proj.cmake/build/
+examples/Hello/proj.emscripten/build/
+examples/Hello/proj.emscripten/build_release/

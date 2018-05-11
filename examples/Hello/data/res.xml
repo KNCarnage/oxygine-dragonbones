@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<resources>
+	<starling file="db/texture.xml"/>
+	<starling file="knight/texture.xml"/>
+	<starling file="cyborg/texture.xml"/>
+	
+	<set path = "images" />
+	<atlas>
+		<image file="anim.png" cols = "7" />
+		<image file="button.png"/>		
+		<image file="controls.png" cols="5"/>
+	</atlas>
+	
+	<set path = "fonts" />
+	<font file="main.fnt" />		
+</resources>
